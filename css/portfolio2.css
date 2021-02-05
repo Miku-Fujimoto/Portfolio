@@ -1,0 +1,11 @@
+#defaultCanvas0{
+  position: fixed; /*canvasを固定*/
+  top: 0; /*canvasを上に固定*/
+}
+
+p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
