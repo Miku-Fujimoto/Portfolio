@@ -2,4 +2,8 @@
     position: fixed; /*canvasを固定*/
     top: 0; /*canvasを上に固定*/
   }
-  sketch.jsは以下のよ
+
+h1{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
