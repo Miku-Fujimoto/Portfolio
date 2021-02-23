@@ -6,3 +6,5 @@ library/lib/addons/p5.sound.js
 library/lib/addons/p5.sound.min.js
 library/lib/empty-example/index.html
 library/lib/empty-example/sketch.js
+library/.DS_Store
+.DS_Store
