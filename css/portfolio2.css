@@ -3,9 +3,20 @@
   top: 0; /*canvasを上に固定*/
 }
 
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 p {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
