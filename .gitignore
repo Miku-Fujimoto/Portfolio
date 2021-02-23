@@ -1,0 +1,8 @@
+library/lib/.DS_Store
+library/lib/p5.js
+library/lib/p5.min.js
+library/lib/README.txt
+library/lib/addons/p5.sound.js
+library/lib/addons/p5.sound.min.js
+library/lib/empty-example/index.html
+library/lib/empty-example/sketch.js
