@@ -63,10 +63,10 @@ h1 {
     margin: 0 auto;
     padding: 0 4%;
 }
-/* 
+
 .disp-img{
-    background-image:url(images/miku.svg);
-    background-repeat: no-repeat;
-    width:auto;
-    height:400pX;
-} */
+position:absolute
+ background-size: cover;
+ background-position: center top;
+ background-repeat: no-repeat;
+}
