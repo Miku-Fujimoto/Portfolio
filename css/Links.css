@@ -3,8 +3,6 @@ html {
     font-size: 100%;
 }
 
-h3{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+body {
+    text-align: center;
 }

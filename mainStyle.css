@@ -65,8 +65,8 @@ h1 {
 }
 
 .disp-img{
-position:absolute
- background-size: cover;
+    position:absolute
+ background-size cover;
  background-position: center top;
  background-repeat: no-repeat;
 }
