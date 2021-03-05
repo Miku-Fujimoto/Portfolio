@@ -70,3 +70,7 @@ h1 {
  background-position: center top;
  background-repeat: no-repeat;
 }
+
+#home {
+    min-height: 100vh;
+}
