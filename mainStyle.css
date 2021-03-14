@@ -74,3 +74,10 @@ h1 {
 #home {
     min-height: 100vh;
 }
+
+#main {
+    background-color: blue;
+}
+#footer {
+    background-color: green;
+}
