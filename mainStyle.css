@@ -4,12 +4,12 @@ html {
 }
 body {
     line-height: 1.7;
-    color: #432;
+    background-color: black;
 }
 a {
     text-decoration: none;
 }
-　
+
 h1 {
     text-align: center
 }
@@ -47,7 +47,7 @@ h1 {
     margin-left: 36px;
 }
 .main-nav a{
-    color: #432
+    color: white;
 }
 .main-nav a:hover{
     color: #0bd;
@@ -66,9 +66,9 @@ h1 {
 
 .disp-img{
     position:absolute
- background-size cover;
- background-position: center top;
- background-repeat: no-repeat;
+    background-size cover;
+    background-position: center top;
+    background-repeat: no-repeat;
 }
 
 #home {
@@ -76,8 +76,13 @@ h1 {
 }
 
 #main {
-    background-color: blue;
+    background-color: black;
 }
 #footer {
-    background-color: green;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img.logo{
+    width:100%;
 }

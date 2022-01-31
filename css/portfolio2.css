@@ -11,13 +11,13 @@ h1 {
 
 h3 {
   display: flex;
-  align-items: center;
+  align-items: center; 
   justify-content: center;
 }
 
 p {
   display: flex;
-  align-items: center;
+  align-items: right;
   justify-content: center;
 }
 
@@ -25,4 +25,16 @@ li {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.miku{
+  margin-left: 20%;
+  width: 20%;
+  display: right;
+}
+.yoko{
+  display: flex;
+}
+.yohaku {
+  margin-left: 1.0em;
+  margin-right: 20%;
 }

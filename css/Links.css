@@ -1,8 +1,10 @@
 @charset "UTF-8";
 html {
     font-size: 100%;
+    color: white;
 }
 
 body {
     text-align: center;
+    background-color: black;
 }
