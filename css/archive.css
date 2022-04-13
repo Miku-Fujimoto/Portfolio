@@ -1,1 +1,25 @@
 @charset "UTF-8";
+a{
+    color: white;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+.twenty-twentyone{
+    padding-top: 10%;
+
+}
+
+.twenty-twenty{
+    padding-top: 10%
+}
+
+.twenty-nineteen{
+    padding-top: 10%;
+}
+h3{
+    color: white;
+}

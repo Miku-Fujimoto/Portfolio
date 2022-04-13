@@ -11,19 +11,19 @@ h1 {
 
 h3 {
   display: flex;
-  align-items: center; 
+  /* align-items: center;  */
   justify-content: center;
 }
 
 p {
   display: flex;
-  align-items: right;
+  /* align-items: right; */
   justify-content: center;
 }
 
 li {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
 }
 .miku{
@@ -37,4 +37,9 @@ li {
 .yohaku {
   margin-left: 1.0em;
   margin-right: 20%;
+}
+.skills{
+  /* text-align: center; */
+  /* padding-right: 10%; */
+  /* display: flex; */
 }
