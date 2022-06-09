@@ -20,6 +20,9 @@ p {
   /* align-items: right; */
   justify-content: center;
 }
+a {
+  color: lightblue;
+}
 
 li {
   display: flex;
