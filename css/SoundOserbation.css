@@ -3,6 +3,9 @@
 p{
     text-align: center;
 }
+a {
+    color: lightblue;
+  }
 .video{
     position: relative;
     height: 0;
@@ -15,4 +18,7 @@ p{
     left: 0;
     width: 100%;
     height: 100%;
+}
+body{
+    background-color: black;
 }
