@@ -3,6 +3,25 @@
   top: 0; /*canvasを上に固定*/
   background-color: black;
 }
+body {
+  position: relative;
+  cursor: none; /*もともとあるカーソルは非表示に*/
+  height:100vh;
+}
+#cursor{
+  position: fixed;
+
+  /*丸の大きさと色の指定*/
+  background: #fff;
+  border-radius:10px;
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -10px;/*真ん中にくるようにマイナスマージンで調整*/
+
+  z-index: 2;/*一番手前に来るように*/
+  pointer-events: none;/*クリックできなくなるのを防ぐため。noneで対応*/
+  opacity: 0;
+}
 
 h1 {
   display: flex;
