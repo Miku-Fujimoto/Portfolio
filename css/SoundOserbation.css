@@ -26,6 +26,7 @@ body{
     cursor: none; /*もともとあるカーソルは非表示に*/
     color: white;
     padding-left: 10%;
+    padding-right: 10%;
 }
 #cursor{
     position: fixed;
