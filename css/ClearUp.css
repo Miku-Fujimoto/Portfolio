@@ -28,7 +28,7 @@ body{
     pointer-events: none;/*クリックできなくなるのを防ぐため。noneで対応*/
     opacity: 0;
   }
-  .hover-line {}
+  /* .hover-line {} */
 .hover-line a{
   display: inline-block;
   color:#fff;

@@ -6,7 +6,7 @@ body {
     line-height: 1.7;
     background-color: black;
     position: relative;
-    cursor: none; /*もともとあるカーソルは非表示に*/
+    cursor: none !important; /*もともとあるカーソルは非表示に*/
     height:100vh;
     margin: 0; 
     display: flex; 
@@ -32,15 +32,15 @@ body {
     position: absolute;
     column-width: 20%;
     display: flex;
-	justify-content: center;
-	align-items: center;
+	  justify-content: center;
+	  align-items: center;
     column-gap:10%;
     top: 30%;
     right: 0;
     left: 0;
   }
 
-.hover-line {}
+/* .hover-line {} */
 .hover-line a{
   display: inline-block;
   color:#fff;
