@@ -40,3 +40,10 @@ p{
 h3{
     color: white;
 }
+.menu{
+    padding-left: 5%;
+    position: absolute;
+}
+/* .flex{
+    display: flex;
+} */
