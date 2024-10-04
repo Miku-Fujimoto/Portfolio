@@ -69,3 +69,9 @@ li {
   color: #fff;
   background-color: #ee2d7b;
 }
+.menu{
+  padding-left: 5%;
+  position: absolute;
+  float: left;
+  padding-top: 10%;
+}

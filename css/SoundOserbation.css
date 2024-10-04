@@ -58,3 +58,11 @@ img{
   width: 50%;
 
 }
+.menu{
+  padding-left: 5%;
+  position: absolute;
+  float: left;
+  padding-top: 10%;
+  position: fixed;
+  font-weight: bold;
+}
